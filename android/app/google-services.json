@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "499350555106",
+    "project_id": "food-planner-0jqlzf",
+    "storage_bucket": "food-planner-0jqlzf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499350555106:android:f5f75c33a43f8a0d9711bb",
+        "android_client_info": {
+          "package_name": "com.mycompany.bitewise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499350555106-agp9td2kh43vv1u98qic1di81ir77gtl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.bitewise",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "499350555106-uc1e27t246m5lpapq9jje6b4qf8s4i48.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.bitewise",
+            "certificate_hash": "81fd88ea226d83164ffe69c3747414204aa178df"
+          }
+        },
+        {
+          "client_id": "499350555106-lnpmrm0s7h7u49dkq97nli6ehhcuo7pp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFVB4tq6VvZMTyFpyqNHqfjL6awklUXu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499350555106-lnpmrm0s7h7u49dkq97nli6ehhcuo7pp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "499350555106-v5d34p6k4ascqfttd3s58b7adakeqci1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.bitewise"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
