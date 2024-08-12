@@ -21,6 +21,6 @@ We’ve also incorporated a re-prompting feature, giving users the flexibility t
 
 ## IMPORTANT
 
-In order to activate the image generation capability (which is currently implemented through OpenAI DALL·E 3), users need to enter their own API Key inside the generateImage.dart file to provide the necessary authorization to access the service. Alternatively, users can also opt to user a different model to generate images for the recipe by updating the API endpoint. 
+In order to activate the image generation capability (which is currently implemented through OpenAI DALL·E 3), users need to enter their own API Key inside the generate_image.dart file to provide the necessary authorization to access the service. Alternatively, users can also opt to user a different model to generate images for the recipe by updating the API endpoint. 
 
 <img width="1048" alt="Screenshot 2024-08-11 at 11 03 48 PM" src="https://github.com/user-attachments/assets/18cfa6f7-dd11-436c-bfd4-3e36fe6bbf1a">
