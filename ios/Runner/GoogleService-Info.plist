@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>499350555106-v5d34p6k4ascqfttd3s58b7adakeqci1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.499350555106-v5d34p6k4ascqfttd3s58b7adakeqci1</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>499350555106-agp9td2kh43vv1u98qic1di81ir77gtl.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBh-xIbmArrKGhbl5_9OTamBU3uwqvnl_E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>499350555106</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.bitewise</string>
+	<key>PROJECT_ID</key>
+	<string>food-planner-0jqlzf</string>
+	<key>STORAGE_BUCKET</key>
+	<string>food-planner-0jqlzf.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:499350555106:ios:f1b817908d594d8f9711bb</string>
+</dict>
+</plist>
